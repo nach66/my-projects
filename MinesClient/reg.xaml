@@ -1,0 +1,32 @@
+﻿<Window x:Class="MinesClient.reg"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MinesClient"
+        mc:Ignorable="d"
+        Title="Register" Height="160" Width="280">
+        <Grid Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="70"/>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="10"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="10"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Label Content="User Name:" Grid.Row="0" Grid.Column="0" HorizontalContentAlignment="Right"/>
+            <TextBox  Grid.Row="0" Grid.Column="2" Name="tbfName"/>
+            <Label Content="Password:" Grid.Row="2" Grid.Column="0" HorizontalContentAlignment="Right"/>
+            <TextBox  Grid.Row="2" Grid.Column="2" Name="tbpas"/>
+
+            <Button Content="Register" Grid.Row="4" Grid.Column="0" HorizontalContentAlignment="Center"
+               Grid.ColumnSpan="3" Click="Button_Click"/>
+        </Grid>
+    </Window>
+
