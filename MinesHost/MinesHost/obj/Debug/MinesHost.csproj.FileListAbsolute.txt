@@ -1,0 +1,239 @@
+H:\c#\final project\MinesHost\MinesHost\bin\Debug\MinesHost.exe.config
+H:\c#\final project\MinesHost\MinesHost\bin\Debug\MinesHost.exe
+H:\c#\final project\MinesHost\MinesHost\bin\Debug\MinesHost.pdb
+H:\c#\final project\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll
+H:\c#\final project\MinesHost\MinesHost\bin\Debug\WcfMinesService.pdb
+H:\c#\final project\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll.config
+H:\c#\final project\MinesHost\MinesHost\obj\Debug\MinesHost.csprojResolveAssemblyReference.cache
+H:\c#\final project\MinesHost\MinesHost\obj\Debug\MainWindow.g.cs
+H:\c#\final project\MinesHost\MinesHost\obj\Debug\App.g.cs
+H:\c#\final project\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.cache
+H:\c#\final project\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.lref
+H:\c#\final project\MinesHost\MinesHost\obj\Debug\MainWindow.baml
+H:\c#\final project\MinesHost\MinesHost\obj\Debug\MinesHost.g.resources
+H:\c#\final project\MinesHost\MinesHost\obj\Debug\MinesHost.Properties.Resources.resources
+H:\c#\final project\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.GenerateResource.Cache
+H:\c#\final project\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CoreCompileInputs.cache
+H:\c#\final project\MinesHost\MinesHost\obj\Debug\MinesHost.exe
+H:\c#\final project\MinesHost\MinesHost\obj\Debug\MinesHost.pdb
+F:\c#\MinesHost\MinesHost\bin\Debug\MinesHost.exe.config
+F:\c#\MinesHost\MinesHost\bin\Debug\MinesHost.exe
+F:\c#\MinesHost\MinesHost\bin\Debug\MinesHost.pdb
+F:\c#\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll
+F:\c#\MinesHost\MinesHost\bin\Debug\WcfMinesService.pdb
+F:\c#\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll.config
+F:\c#\MinesHost\MinesHost\obj\Debug\MinesHost.csprojResolveAssemblyReference.cache
+F:\c#\MinesHost\MinesHost\obj\Debug\MainWindow.g.cs
+F:\c#\MinesHost\MinesHost\obj\Debug\App.g.cs
+F:\c#\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.cache
+F:\c#\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.lref
+F:\c#\MinesHost\MinesHost\obj\Debug\MainWindow.baml
+F:\c#\MinesHost\MinesHost\obj\Debug\MinesHost.g.resources
+F:\c#\MinesHost\MinesHost\obj\Debug\MinesHost.Properties.Resources.resources
+F:\c#\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.GenerateResource.Cache
+F:\c#\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CoreCompileInputs.cache
+F:\c#\MinesHost\MinesHost\obj\Debug\MinesHost.exe
+F:\c#\MinesHost\MinesHost\obj\Debug\MinesHost.pdb
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\bin\Debug\MinesHost.exe.config
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\bin\Debug\MinesHost.exe
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\bin\Debug\MinesHost.pdb
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\bin\Debug\WcfMinesService.pdb
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll.config
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\obj\Debug\MinesHost.csprojResolveAssemblyReference.cache
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\obj\Debug\MainWindow.g.cs
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\obj\Debug\App.g.cs
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.cache
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.lref
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\obj\Debug\MainWindow.baml
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\obj\Debug\MinesHost.g.resources
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\obj\Debug\MinesHost.Properties.Resources.resources
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.GenerateResource.Cache
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CoreCompileInputs.cache
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\obj\Debug\MinesHost.exe
+C:\Users\kassimbas\Desktop\MinesHost\MinesHost\obj\Debug\MinesHost.pdb
+F:\פרוייקט הטוב\MinesHost\MinesHost\bin\Debug\MinesHost.exe.config
+F:\פרוייקט הטוב\MinesHost\MinesHost\bin\Debug\MinesHost.exe
+F:\פרוייקט הטוב\MinesHost\MinesHost\bin\Debug\MinesHost.pdb
+F:\פרוייקט הטוב\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll
+F:\פרוייקט הטוב\MinesHost\MinesHost\bin\Debug\WcfMinesService.pdb
+F:\פרוייקט הטוב\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll.config
+F:\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost.csprojResolveAssemblyReference.cache
+F:\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MainWindow.g.cs
+F:\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\App.g.cs
+F:\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.cache
+F:\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.lref
+F:\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MainWindow.baml
+F:\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost.g.resources
+F:\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost.Properties.Resources.resources
+F:\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.GenerateResource.Cache
+F:\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CoreCompileInputs.cache
+F:\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost.exe
+F:\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost.pdb
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\bin\Debug\MinesHost.exe.config
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\bin\Debug\MinesHost.exe
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\bin\Debug\MinesHost.pdb
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\bin\Debug\WcfMinesService.pdb
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll.config
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.cache
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.lref
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost.g.resources
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost.Properties.Resources.resources
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CopyComplete
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost.exe
+C:\Users\Admin\Desktop\פרוייקט הטוב\MinesHost\MinesHost\obj\Debug\MinesHost.pdb
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\MinesHost.exe.config
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\MinesHost.exe
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\MinesHost.pdb
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\WcfMinesService.pdb
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll.config
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.csprojResolveAssemblyReference.cache
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MainWindow.g.cs
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\App.g.cs
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.cache
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.lref
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MainWindow.baml
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.g.resources
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.Properties.Resources.resources
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.GenerateResource.Cache
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CoreCompileInputs.cache
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.exe
+F:\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.pdb
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\MinesHost.exe.config
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\MinesHost.exe
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\MinesHost.pdb
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\WcfMinesService.pdb
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll.config
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.csprojResolveAssemblyReference.cache
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MainWindow.g.cs
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\App.g.cs
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.cache
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.lref
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MainWindow.baml
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.g.resources
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.Properties.Resources.resources
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.GenerateResource.Cache
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CoreCompileInputs.cache
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.exe
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.pdb
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\MinesHost.exe.config
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\MinesHost.exe
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\MinesHost.pdb
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\WcfMinesService.pdb
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll.config
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.csprojResolveAssemblyReference.cache
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MainWindow.g.cs
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\App.g.cs
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.cache
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.lref
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MainWindow.baml
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.g.resources
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.Properties.Resources.resources
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.GenerateResource.Cache
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CoreCompileInputs.cache
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.exe
+C:\Users\nachalavin\Desktop\פרוייקט הכי טוב\MinesHost\MinesHost\obj\Debug\MinesHost.pdb
+D:\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\MinesHost.exe.config
+D:\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\MinesHost.exe
+D:\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\MinesHost.pdb
+D:\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll
+D:\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\WcfMinesService.pdb
+D:\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll.config
+D:\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csprojAssemblyReference.cache
+D:\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MainWindow.g.cs
+D:\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\App.g.cs
+D:\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.cache
+D:\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.lref
+D:\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MainWindow.baml
+D:\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.g.resources
+D:\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.Properties.Resources.resources
+D:\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.GenerateResource.cache
+D:\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CoreCompileInputs.cache
+D:\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CopyComplete
+D:\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.exe
+D:\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.pdb
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\MinesHost.exe.config
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\MinesHost.exe
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\MinesHost.pdb
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\WcfMinesService.pdb
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll.config
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.cache
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.lref
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.g.resources
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.Properties.Resources.resources
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CopyComplete
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.exe
+C:\Users\Admin\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.pdb
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\MinesHost.exe.config
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\MinesHost.exe
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\MinesHost.pdb
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\WcfMinesService.pdb
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll.config
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.cache
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.lref
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.g.resources
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.Properties.Resources.resources
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CopyComplete
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.exe
+C:\Users\Admin\Desktop\הכי הכי חדש בהחלט\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.pdb
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\MinesHost.exe.config
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\MinesHost.exe
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\MinesHost.pdb
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\WcfMinesService.pdb
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll.config
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csprojResolveAssemblyReference.cache
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MainWindow.g.cs
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\App.g.cs
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.cache
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.lref
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MainWindow.baml
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.g.resources
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.Properties.Resources.resources
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.GenerateResource.Cache
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CoreCompileInputs.cache
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.exe
+C:\Users\kassimbas\Desktop\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.pdb
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\MinesHost.exe.config
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\MinesHost.exe
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\MinesHost.pdb
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\WcfMinesService.pdb
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\bin\Debug\WcfMinesService.dll.config
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\App.g.cs
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.cache
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost_MarkupCompile.lref
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MainWindow.baml
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.g.resources
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.Properties.Resources.resources
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.csproj.CopyComplete
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.exe
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\MinesHost\MinesHost\obj\Debug\MinesHost.pdb
