@@ -1,0 +1,35 @@
+H:\c#\final project\WcfMinesService\WcfMinesService\bin\Debug\WcfMinesService.dll.config
+H:\c#\final project\WcfMinesService\WcfMinesService\bin\Debug\WcfMinesService.dll
+H:\c#\final project\WcfMinesService\WcfMinesService\bin\Debug\WcfMinesService.pdb
+H:\c#\final project\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.csprojResolveAssemblyReference.cache
+H:\c#\final project\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.csproj.CoreCompileInputs.cache
+H:\c#\final project\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.dll
+H:\c#\final project\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.pdb
+C:\Users\kassimbas\Desktop\WcfMinesService\WcfMinesService\bin\Debug\WcfMinesService.dll.config
+C:\Users\kassimbas\Desktop\WcfMinesService\WcfMinesService\bin\Debug\WcfMinesService.dll
+C:\Users\kassimbas\Desktop\WcfMinesService\WcfMinesService\bin\Debug\WcfMinesService.pdb
+C:\Users\kassimbas\Desktop\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.csprojResolveAssemblyReference.cache
+C:\Users\kassimbas\Desktop\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.csproj.CoreCompileInputs.cache
+C:\Users\kassimbas\Desktop\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.dll
+C:\Users\kassimbas\Desktop\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.pdb
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\WcfMinesService\WcfMinesService\bin\Debug\WcfMinesService.dll.config
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\WcfMinesService\WcfMinesService\bin\Debug\WcfMinesService.dll
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\WcfMinesService\WcfMinesService\bin\Debug\WcfMinesService.pdb
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.csprojResolveAssemblyReference.cache
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.csproj.CoreCompileInputs.cache
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.dll
+C:\Users\kassimbas\Desktop\פרוייקט הכי טוב\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.pdb
+C:\Users\kassimbas\Desktop\הכי הכי חדש\WcfMinesService\WcfMinesService\bin\Debug\WcfMinesService.dll.config
+C:\Users\kassimbas\Desktop\הכי הכי חדש\WcfMinesService\WcfMinesService\bin\Debug\WcfMinesService.dll
+C:\Users\kassimbas\Desktop\הכי הכי חדש\WcfMinesService\WcfMinesService\bin\Debug\WcfMinesService.pdb
+C:\Users\kassimbas\Desktop\הכי הכי חדש\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.csprojResolveAssemblyReference.cache
+C:\Users\kassimbas\Desktop\הכי הכי חדש\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.csproj.CoreCompileInputs.cache
+C:\Users\kassimbas\Desktop\הכי הכי חדש\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.dll
+C:\Users\kassimbas\Desktop\הכי הכי חדש\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.pdb
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\WcfMinesService\WcfMinesService\bin\Debug\WcfMinesService.dll.config
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\WcfMinesService\WcfMinesService\bin\Debug\WcfMinesService.dll
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\WcfMinesService\WcfMinesService\bin\Debug\WcfMinesService.pdb
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.dll
+C:\Users\Admin\Downloads\thenewnewst\הכי הכי חדש\WcfMinesService\WcfMinesService\obj\Debug\WcfMinesService.pdb
